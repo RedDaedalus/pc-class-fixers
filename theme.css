@@ -23,10 +23,12 @@
     background-color: var(--background-secondary);
 }
 
+/* Reactions menu sidebar */
 .theme-dark .scroller-1-nKid {
     background-color: var(--background-secondary);
 }
 
+/* Reactions menu */
 .theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
     background-color: var(--background-primary);
 }

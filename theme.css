@@ -1,0 +1,24 @@
+/* Autocomplete popouts */
+.theme-dark .autocomplete-1vrmpx, .theme-dark .categoryHeader-O1zU94 {
+    background-color: var(--background-secondary);
+}
+
+/* Selected item glow */
+.theme-dark .selected-1Tbx07 {
+    background-color: var(--background-primary);
+}
+
+/* Friends tab */
+.theme-dark .container-1D34oG {
+    background-color: var(--background-primary);
+}
+
+/* Upload modal */
+.theme-dark .uploadModal-2ifh8j {
+    background-color: var(--background-primary);
+}
+
+/* Upload modal footer */
+.theme-dark .footer-3mqk7D {
+    background-color: var(--background-secondary);
+}

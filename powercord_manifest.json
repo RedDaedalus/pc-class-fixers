@@ -1,0 +1,8 @@
+{
+    "name": "Class Fixers",
+    "description": "A utility theme to properly theme Discord UI components.",
+    "version": "1.0.0",
+    "author": "Daedalus#0001",
+    "theme": "theme.css",
+    "license": "MIT"
+}

@@ -1,5 +1,5 @@
 # Class Fixers
-Class Fixers is a simple utility theme designed to make simple theming easier by making elements use proper CSS variables for coloring. This theme can be used to patch other themes that may have unthemed elements, or can be depended on by other themes.
+Class Fixers is a simple utility theme designed to make simple theming easier by making elements use proper CSS variables for coloring. This theme can be used to patch other themes that may have unthemed elements, or can be depended on by other themes. **This theme will not change how Discord looks by itself, it is just designed to fix styles for other themes.*
 
 ## Installation
 Run the installation command for your operating system in the terminal and the theme will be installed! You may have to reload Discord for the installation to complete.

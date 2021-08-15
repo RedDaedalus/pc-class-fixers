@@ -11,5 +11,6 @@ Run the installation command for your operating system in the terminal and the t
 ## Adding Class Fixers to your theme
 Some themes may want to automatically load class fixers as part of their theme. To do so, add the following line to the top of the css:
 ```css
-@import url("https://cdn.jsdelivr.net/gh/RedDaedalus/pc-class-fixers/theme.css");```
+@import url("https://cdn.jsdelivr.net/gh/RedDaedalus/pc-class-fixers/theme.css");
+```
 This line will automatically bundle the proper theme into the file.
